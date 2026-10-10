@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1791306394998,
+      "tag": "0000_violet_lady_mastermind",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1791307117658,
+      "tag": "0001_little_psylocke",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1791638479001,
+      "tag": "0002_optimal_chimera",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1791640701591,
+      "tag": "0003_fearless_shiver_man",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1791641596088,
+      "tag": "0004_bouncy_bedlam",
+      "breakpoints": true
+    }
+  ]
+}
